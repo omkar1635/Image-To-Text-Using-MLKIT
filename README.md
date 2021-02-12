@@ -1,4 +1,8 @@
-# img1
+# Image to Text using Firebase MLKit
+
+
+You can use ML Kit to recognize text in images. ML Kit has both a general-purpose API suitable for recognizing text in images, such as the text of a street sign, and an API optimized for recognizing the text of documents. The general-purpose API has both on-device and cloud-based models.
+
 ![1](https://user-images.githubusercontent.com/53448502/107734428-6aeafc80-6d23-11eb-9632-039c548471d7.jpg)
 
 ![2](https://user-images.githubusercontent.com/53448502/107734437-6e7e8380-6d23-11eb-8d6e-563cb88efcab.jpg)
